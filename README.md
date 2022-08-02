@@ -25,8 +25,8 @@ sdfdsfdsf
 
 ## Experience
 
-UX/UI Web DesignerUX/UI Web Designer
-FreelanceFreelance
+UX/UI Web Designer
+Freelance
 2015 - 2019 · 8 yrs 8 mos2014 - Present · 5 yrs
 Vancouver, Canada AreaVancouver, Canada Area
 • Launched and designed over 20 original websites with defined processes including user guides.
