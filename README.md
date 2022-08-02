@@ -25,6 +25,7 @@ sdfdsfdsf
 
 ## Experience
 
+<div>
 UX/UI Web Designer
 Freelance
 2015 - 2019 · 8 yrs 8 mos2014 - Present · 5 yrs
@@ -50,4 +51,4 @@ Gangnam-gu, Seoul, KoreaGangnam-gu, Seoul, Korea
 • Supported business websites, Content Management System (CMS), Email marketing applications, and social intelligence media channels.
 • Launched and designed original National Park Mountain Map website including hiking routes, service information and community blogs.
 • Designed new sports, life and entertainment section for Yahoo Korea.• Supported business websites, Content Management System (CMS), Email marketing applications, and social intelligence media channels. • Launched and designed original National Park Mountain Map website including hiking routes, service information and community blogs. • Designed new sports, life and entertainment section for Yahoo Korea.
-
+</div>
