@@ -26,6 +26,7 @@ sdfdsfdsf
 ## Experience
 
 UX/UI Web DesignerUX/UI Web Designer
+
 FreelanceFreelance
 2014 - Present · 8 yrs 8 mos2014 - Present · 8 yrs 8 mos
 Vancouver, Canada AreaVancouver, Canada Area
