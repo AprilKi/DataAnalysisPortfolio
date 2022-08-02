@@ -24,7 +24,6 @@ sdfdsfdsf
 #### View: [a link](https://public.tableau.com/app/profile/jihyun.ki4896/viz/StudentPerfomance_16594734536610/Student)
 
 ## Experience
-
 UX/UI Web Designer<br>
 Freelance<br>
 2015 - 2019 · 8 yrs 8 mos2014 - Present · 5 yrs<br>
@@ -43,12 +42,37 @@ Winnipeg, MBWinnipeg, MB<br>
 • Created UCN(University College North) web and mobile sites with 2010 Sharepoint designer.<br>
 • Assisted creative concept and collaterals with marketing and project managers. <br>
 • Created UCN(University College North) web and mobile sites with 2010 Sharepoint designer. <br>
+
+## Education
+British Columbia Institute of TechnologyBritish Columbia Institute of Technology
+Certification, Data Processing and Data Processing Technology/TechnicianCertification, Data Processing and Data Processing Technology/Technician
+Jan 2019 - Jun 2022Jan 2019 - Jun 2022
+Completed Courses
+
+1. Relational Database Design and SQL
+2. Business Intelligence with SSAS, SQL Server Analysis Services
+3. Statistics for Data Analysis with R
+4. Advanced Statistical Techniques with R
+5. Advanced Microsoft Excel
+6. Python Fundamentals for Data Analysis
+7. Advanced Statistical Techniques for Data Analytics with Python
+8. Data Warehouse Foundations for Business Intelligence
+9. Microsoft Power BI
+10. Visual Analytics with Tableau
+11. Data Quality Improvement
+12. Data Analytics Fundamentals
+13. Business Analysis and Systems Design
+14. Internet and IT Law
+15. IT Security Fundamentals
+16. IT Project Management Fundamentals
+
+https://www.bcit.ca/programs/applied-data-analytics-certificate-part-time-5512cert/#overview
+
+
+Institute of Design Technology, Seoul, KoreaInstitute of Design Technology, Seoul, Korea <br>
+Certification, Interactive multimedia & web design Certification, Interactive multimedia & web design <br>
+Jan 2001 - Jan 2002Jan 2001 - Jan 2002<br>
 <br>
-Web Designer<br>
-Information & Future Co,. Ltd,<br>
-2004 - 2007 · 3 yrs2004 - 2007 · 3 yrs<br>
-Gangnam-gu, Seoul, KoreaGangnam-gu, Seoul, Korea<br>
-• Supported business websites, Content Management System (CMS), Email marketing applications, and social intelligence media channels.<br>
-• Launched and designed original National Park Mountain Map website including hiking routes, service information and community blogs.<br>
-• Designed new sports, life and entertainment section for Yahoo Korea.<br>
-• Supported business websites, Content Management System (CMS), Email marketing applications, and social intelligence media channels. <br>
+Dongkang College UniversityDongkang College University<br>
+Diploma, ArchitectureDiploma, Architecture<br>
+Mar 1997 - Feb 2000
