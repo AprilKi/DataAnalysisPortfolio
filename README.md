@@ -11,8 +11,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio
 
-#### Bank
+### Bank
 
-###### View: [a relative link](MarketingCampaignsBank.ipynb)
+#### View: [a relative link](MarketingCampaignsBank.ipynb)
 
 sdfdsfdsf
