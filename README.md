@@ -69,10 +69,10 @@ Completed Courses
 https://www.bcit.ca/programs/applied-data-analytics-certificate-part-time-5512cert/#overview
 
 
-<b>Institute of Design Technology, Seoul, Korea</b><br>
+####Institute of Design Technology, Seoul, Korea<br>
 Certification, Interactive multimedia & web design<br>
 Jan 2001 - Jan 2002Jan 2001 - Jan 2002<br>
 <br>
-<b>Dongkang College University/b><br>
+####Dongkang College University<br>
 Diploma, Architecture<br>
 Mar 1997 - Feb 2000
