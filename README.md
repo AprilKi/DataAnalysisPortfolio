@@ -17,5 +17,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 sdfdsfdsf
 
+### Billionaires 2022
 #### View: [a link](https://public.tableau.com/app/profile/jihyun.ki4896/viz/BILLIONAIRES2022/FobesBillionaires2022)
+
+### Student Perfomance
 #### View: [a link](https://public.tableau.com/app/profile/jihyun.ki4896/viz/StudentPerfomance_16594734536610/Student)
