@@ -12,21 +12,21 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio
 
 ### Maketing Campaigns of the Bank
-<li><strong>Python Code: </strong><a href="https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/MarketingCampaignsBank.ipynb"><code>MarketingCampaignsBank.ipynb</code></a></li>
+<li><strong>Python Code: </strong><a href="https://github.com/AprilKi/Data_Analysis_Portfolio/blob/main/MarketingCampaignsBank.ipynb"><code>MarketingCampaignsBank.ipynb</code></a></li>
 <li><strong>Goal: </strong>The final .</li>
 <li><strong>Skills: </strong> data cleaning, defining metrics.</li>
 <li><strong>Technology: </strong> Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.
 <li><strong>Result: </strong> python functions t</li>
 
 ### Billionaires 2022
-<li><strong>Tableau Dashboard: </strong><a href="https://public.tableau.com/app/profile/jihyun.ki4896/viz/BILLIONAIRES2022/FobesBillionaires2022"><code>MarketingCampaignsBank.ipynb</code></a></li>
+<li><strong>Tableau Dashboard: </strong><a href="https://public.tableau.com/app/profile/jihyun.ki4896/viz/BILLIONAIRES2022/FobesBillionaires2022"><code>FobesBillionaires2022</code></a></li>
 <li><strong>Goal: </strong>The final .</li>
 <li><strong>Skills: </strong> data cleaning, defining metrics.</li>
 <li><strong>Technology: </strong> Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.
 <li><strong>Result: </strong> python functions t</li>
 
 ### Student Perfromance
-<li><strong>Tableau Dashboard: </strong><a href="https://public.tableau.com/app/profile/jihyun.ki4896/viz/StudentPerfomance_16594734536610/Student"><code>MarketingCampaignsBank.ipynb</code></a></li>
+<li><strong>Tableau Dashboard: </strong><a href="https://public.tableau.com/app/profile/jihyun.ki4896/viz/StudentPerfomance_16594734536610/Student"><code>StudentPerfomance</code></a></li>
 <li><strong>Goal: </strong>The final .</li>
 <li><strong>Skills: </strong> data cleaning, defining metrics.</li>
 <li><strong>Technology: </strong> Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.
