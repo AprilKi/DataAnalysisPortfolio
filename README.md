@@ -26,7 +26,7 @@ sdfdsfdsf
 ## Experience
 UX/UI Web Designer<br>
 Freelance<br>
-2015 - 2019 · 8 yrs 8 mos2014 - Present · 5 yrs<br>
+2015 - 2019 · 5 yrs<br>
 Vancouver, Canada AreaVancouver, Canada Area<br>
 • Launched and designed over 20 original websites with defined processes including user guides.<br>
 • Collaborated on best design approach with client goals in mind, creating detailed UX, plans, schedules and design mockups.<br>
@@ -35,7 +35,7 @@ Vancouver, Canada AreaVancouver, Canada Area<br>
 <br>
 WebWizards Network, Inc.<br>
 UX/UI Web & Graphic Designer<br>
-2011 - 2014 · 2 yrs2011 - 2014 · 3 yrs<br>
+2011 - 2014 · 3 yrs<br>
 Winnipeg, MBWinnipeg, MB<br>
 • Assisted creative concept and collaterals with marketing and project managers.<br>
 • Maintained over 50 web and mobile sites for external parties and remote groups.<br>
@@ -45,13 +45,9 @@ Winnipeg, MBWinnipeg, MB<br>
 
 ## Education
 #### • British Columbia Institute of Technology
-Certification, Data Processing and Technology/Technician
+Certification, Data Processing and Technology/Technician (Jan 2019 - Jul 2022)
 
-Jan 2019 - Jun 2022Jan 2019 - Jun 2022
-
-Completed Courses
-
-
+- Completed Courses
 1. Relational Database Design and SQL
 2. Business Intelligence with SSAS, SQL Server Analysis Services
 3. Statistics for Data Analysis with R
@@ -73,10 +69,8 @@ https://www.bcit.ca/programs/applied-data-analytics-certificate-part-time-5512ce
 
 
 #### • Institute of Design Technology, Seoul, Korea
-Certification, Interactive multimedia & web design
-Jan 2001 - Jan 2002Jan 2001 - Jan 2002
+Certification, Interactive multimedia & web design (Jan 2001 - Jan 2002)
 
 
 #### • Dongkang College University
-Diploma, Architecture
-Mar 1997 - Feb 2000
+Diploma, Architecture (Mar 1997 - Feb 2000)
