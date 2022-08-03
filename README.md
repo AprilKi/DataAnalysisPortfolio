@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio
 
 ### Maketing Campaigns of the Bank
-<li><b>View</b>: [a relative link](MarketingCampaignsBank.ipynb)</li>
+<li>View: [a link](MaketingCampaignsBank.jynp)</li>
 <li><b>Description</b>: The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.</li>
 <li><b>Skills</b>: data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.</li>
 <li><b>Technology</b>: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.
