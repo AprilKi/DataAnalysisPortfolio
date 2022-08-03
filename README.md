@@ -45,9 +45,9 @@ Winnipeg, MBWinnipeg, MB<br>
 
 ## Education
 #### British Columbia Institute of Technology
-Certification, Data Processing and Data Processing Technology/TechnicianCertification, Data Processing and Data Processing Technology/Technician
-Jan 2019 - Jun 2022Jan 2019 - Jun 2022
-Completed Courses
+Certification, Data Processing and Technology/Technician  < br>
+Jan 2019 - Jun 2022Jan 2019 - Jun 2022 < br>
+Completed Courses < br>
 
 1. Relational Database Design and SQL
 2. Business Intelligence with SSAS, SQL Server Analysis Services
@@ -71,10 +71,10 @@ https://www.bcit.ca/programs/applied-data-analytics-certificate-part-time-5512ce
 
 
 #### Institute of Design Technology, Seoul, Korea
-Certification, Interactive multimedia & web design
+Certification, Interactive multimedia & web design < br>
 Jan 2001 - Jan 2002Jan 2001 - Jan 2002
 
 
 #### Dongkang College University
-Diploma, Architecture
+Diploma, Architecture  < br>
 Mar 1997 - Feb 2000
