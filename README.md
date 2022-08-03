@@ -1,15 +1,9 @@
 # April Ki - Data Analysis Portfolio
 
-## Content
-<div>
-  <li>About Me</li>
-  <li>Portfolio</li>
-</div>
-
 ## About Me
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-## Portfolio
+## Projects
 
 ### Maketing Campaigns of the Bank
 <li><strong>Python Code: </strong><a href="https://github.com/AprilKi/Data_Analysis_Portfolio/blob/main/MarketingCampaignsBank.ipynb"><code>MarketingCampaignsBank.ipynb</code></a></li>
