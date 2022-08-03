@@ -44,7 +44,7 @@ Winnipeg, MBWinnipeg, MB<br>
 • Created UCN(University College North) web and mobile sites with 2010 Sharepoint designer. <br>
 
 ## Education
-#### British Columbia Institute of TechnologyBritish Columbia Institute of Technology
+#### British Columbia Institute of Technology
 Certification, Data Processing and Data Processing Technology/TechnicianCertification, Data Processing and Data Processing Technology/Technician
 Jan 2019 - Jun 2022Jan 2019 - Jun 2022
 Completed Courses
