@@ -12,12 +12,11 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio
 
 ### Maketing Campaigns of the Bank
-
-#### View: [a relative link](MarketingCampaignsBank.ipynb)
-#### Description: The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.
-Skills: data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.
-Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.
-Results: python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.
+<li><b>View</b>: [a relative link](MarketingCampaignsBank.ipynb)</li>
+<li><b>Description</b>: The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.</li>
+<li><b>Skills</b>: data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.</li>
+<li><b>Technology</b>: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.
+Results: python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.</li>
 
 ### Billionaires 2022
 #### View: [a link](https://public.tableau.com/app/profile/jihyun.ki4896/viz/BILLIONAIRES2022/FobesBillionaires2022)
