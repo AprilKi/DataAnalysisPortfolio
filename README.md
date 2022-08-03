@@ -11,7 +11,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio
 
-### Bank
+### Maketing Campaigns of the Bank
 
 #### View: [a relative link](MarketingCampaignsBank.ipynb)
 
@@ -24,28 +24,10 @@ sdfdsfdsf
 #### View: [a link](https://public.tableau.com/app/profile/jihyun.ki4896/viz/StudentPerfomance_16594734536610/Student)
 
 ## Experience
-UX/UI Web Designer<br>
-Freelance<br>
-2015 - 2019 · 5 yrs<br>
-Vancouver, Canada AreaVancouver, Canada Area<br>
-• Launched and designed over 20 original websites with defined processes including user guides.<br>
-• Collaborated on best design approach with client goals in mind, creating detailed UX, plans, schedules and design mockups.<br>
-• Launched and designed over 20 original websites with defined processes including user guides. <br>
-• Collaborated on best design approach with client goals in mind, creating detailed UX, plans, schedules and design mockups. <br>
-<br>
-WebWizards Network, Inc.<br>
-UX/UI Web & Graphic Designer<br>
-2011 - 2014 · 3 yrs<br>
-Winnipeg, MBWinnipeg, MB<br>
-• Assisted creative concept and collaterals with marketing and project managers.<br>
-• Maintained over 50 web and mobile sites for external parties and remote groups.<br>
-• Created UCN(University College North) web and mobile sites with 2010 Sharepoint designer.<br>
-• Assisted creative concept and collaterals with marketing and project managers. <br>
-• Created UCN(University College North) web and mobile sites with 2010 Sharepoint designer. <br>
 
-## Education
-#### • British Columbia Institute of Technology
-Certification, Data Processing and Technology/Technician (Jan 2019 - Jul 2022)
+
+## Certification - Data Analytics
+#### British Columbia Institute of Technology (Jan 2019 - Jul 2022)
 
 - Completed Courses
 1. Relational Database Design and SQL
@@ -59,18 +41,10 @@ Certification, Data Processing and Technology/Technician (Jan 2019 - Jul 2022)
 9. Microsoft Power BI
 10. Visual Analytics with Tableau
 11. Data Quality Improvement
-12. Data Analytics Fundamentals
+12. Data Analytics Fundamentals with Python
 13. Business Analysis and Systems Design
 14. Internet and IT Law
 15. IT Security Fundamentals
 16. IT Project Management Fundamentals
 
 https://www.bcit.ca/programs/applied-data-analytics-certificate-part-time-5512cert/#overview
-
-
-#### • Institute of Design Technology, Seoul, Korea
-Certification, Interactive multimedia & web design (Jan 2001 - Jan 2002)
-
-
-#### • Dongkang College University
-Diploma, Architecture (Mar 1997 - Feb 2000)
