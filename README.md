@@ -44,7 +44,7 @@ Winnipeg, MBWinnipeg, MB<br>
 • Created UCN(University College North) web and mobile sites with 2010 Sharepoint designer. <br>
 
 ## Education
-#### British Columbia Institute of Technology
+#### • British Columbia Institute of Technology
 Certification, Data Processing and Technology/Technician
 
 Jan 2019 - Jun 2022Jan 2019 - Jun 2022
@@ -72,13 +72,11 @@ Completed Courses
 https://www.bcit.ca/programs/applied-data-analytics-certificate-part-time-5512cert/#overview
 
 
-
-#### Institute of Design Technology, Seoul, Korea
+#### • Institute of Design Technology, Seoul, Korea
 Certification, Interactive multimedia & web design
-
 Jan 2001 - Jan 2002Jan 2001 - Jan 2002
 
 
-#### Dongkang College University
+#### • Dongkang College University
 Diploma, Architecture
 Mar 1997 - Feb 2000
