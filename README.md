@@ -12,17 +12,25 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio
 
 ### Maketing Campaigns of the Bank
-<li>View: [a link](MaketingCampaignsBank.jynp)</li>
-<li><b>Description</b>: The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.</li>
-<li><b>Skills</b>: data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.</li>
-<li><b>Technology</b>: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.
-Results: python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.</li>
+<li><strong>View: </strong><a href="https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/MarketingCampaignsBank.ipynb"><code>MarketingCampaignsBank.ipynb</code></a></li>
+<li><strong>Goal: </strong>The final .</li>
+<li><strong>Skills: </strong> data cleaning, defining metrics.</li>
+<li><strong>Technology: </strong> Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.
+<li><strong>Result: </strong> python functions t</li>
 
 ### Billionaires 2022
-#### View: [a link](https://public.tableau.com/app/profile/jihyun.ki4896/viz/BILLIONAIRES2022/FobesBillionaires2022)
+<li><strong>View: </strong><a href="https://public.tableau.com/app/profile/jihyun.ki4896/viz/BILLIONAIRES2022/FobesBillionaires2022"><code>MarketingCampaignsBank.ipynb</code></a></li>
+<li><strong>Goal: </strong>The final .</li>
+<li><strong>Skills: </strong> data cleaning, defining metrics.</li>
+<li><strong>Technology: </strong> Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.
+<li><strong>Result: </strong> python functions t</li>
 
 ### Student Perfromance
-#### View: [a link](https://public.tableau.com/app/profile/jihyun.ki4896/viz/StudentPerfomance_16594734536610/Student)
+<li><strong>View: </strong><a href="https://public.tableau.com/app/profile/jihyun.ki4896/viz/StudentPerfomance_16594734536610/Student"><code>MarketingCampaignsBank.ipynb</code></a></li>
+<li><strong>Goal: </strong>The final .</li>
+<li><strong>Skills: </strong> data cleaning, defining metrics.</li>
+<li><strong>Technology: </strong> Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.
+<li><strong>Result: </strong> python functions t</li>
 
 ## Experience
 
@@ -49,3 +57,6 @@ Results: python functions to calculate and plot users retention, hypothesis test
 16. IT Project Management Fundamentals
 
 https://www.bcit.ca/programs/applied-data-analytics-certificate-part-time-5512cert/#overview
+
+## Contact Me
+apriljihyunki@gmail.com
