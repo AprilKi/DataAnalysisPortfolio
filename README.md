@@ -1,7 +1,9 @@
 # April Ki - Data Analysis Portfolio
 
 ## About Me
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+Hi. I'm April and recently completed a Data Analytics program at BCIT(British Columbia Institute of Technology).  
+
+I worked as a UX designer for over 10 years. Consequently, I'm available to perform, based on my experiences, powerful visualization of Dashboards and analysis of requests for the projects. 
 
 ## Projects
 
