@@ -20,7 +20,7 @@ sdfdsfdsf
 ### Billionaires 2022
 #### View: [a link](https://public.tableau.com/app/profile/jihyun.ki4896/viz/BILLIONAIRES2022/FobesBillionaires2022)
 
-### Student Perfomance
+### Student Perfromance
 #### View: [a link](https://public.tableau.com/app/profile/jihyun.ki4896/viz/StudentPerfomance_16594734536610/Student)
 
 ## Experience
