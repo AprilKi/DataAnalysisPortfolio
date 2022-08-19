@@ -3,13 +3,13 @@
 ## About Me
 Hi. I'm April and recently completed a Data Analytics program at BCIT(British Columbia Institute of Technology).  
 
-I worked as a UX designer for over 10 years. Consequently, I'm available to perform, based on my experiences, powerful visualization of Dashboards and analysis of requests for the projects. 
+I worked as a UX designer for over 8 years. Consequently, I'm available to perform, based on my experiences, powerful visualization of Dashboards and analysis of requests for the projects. 
 
 ## Projects
 
 ### Maketing Campaigns of the Bank
 <li><strong>Python Code: </strong><a href="https://github.com/AprilKi/Data_Analysis_Portfolio/blob/main/MarketingCampaignsBank.ipynb"><code>MarketingCampaignsBank.ipynb</code></a></li>
-<li><strong>Goal: </strong>The data contains customers of the bank information with age, job, marital, education, balance and whether they subscribed to a term deposit or not. Understanding of input variables predicts how the marketing impact the customers subscribe the service and the length of contact with customers and previous subscription experience. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, data modelling, and hypothesis testing.</li>
+<li><strong>Goal: </strong>The data contains customers of the bank information with age, job, marital, education, balance and whether they subscribed to a term deposit or not. Understanding of input variables predicts how the marketing is impacted the customers who subscribe to the service and the length of contact with customers and previous subscription experience. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, data modelling, and hypothesis testing.</li>
 <li><strong>Skills: </strong> data cleaning, data analysis, python coding, data visualization, hypothesis testing, descriptive statistics.</li>
 <li><strong>Technology: </strong> Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Sklearn.
 <li><strong>Result: </strong> Compared and analyzed multiple data models to derive the best model via identifying significant features.</li>
