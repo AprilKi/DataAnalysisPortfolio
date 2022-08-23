@@ -39,7 +39,7 @@ I worked as a UX designer for over 8 years. Consequently, I'm available to perfo
 <li><strong>Data Quality Improvement and Management: </strong> Measure the DQ of data sets with data profiling to establish baselines for improvement, Document data flows using simple process diagrams and SIPOCs (Suppliers, Inputs,Process, Outputs, and Customers). 
 
 ## Certification - Data Analytics
-#### British Columbia Institute of Technology (Jan 2019 - Jul 2022)
+#### British Columbia Institute of Technology (Jan 2019 - Dec 2022)
 
 - Completed Courses
 1. Relational Database Design and SQL / SQL Development
