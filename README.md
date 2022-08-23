@@ -23,13 +23,18 @@ I worked as a UX designer for over 8 years. Consequently, I'm available to perfo
 
 ### Student Performance 
 <li><strong>Tableau Dashboard: </strong><a href="https://public.tableau.com/app/profile/jihyun.ki4896/viz/StudentPerfomance_16594734536610/Student"><code>StudentPerformance</code></a></li>
-<li><strong>Goal: </strong>The scores for each subject of 1000 students were analyzed, reading, writing, math, and the results of achievement were shown. For this purpose, three major implementations were made. Create the distribution of scores for each subject through a graph, and determine the median score by gender. The median scores of the students who passed the subject were analyzed by gender, test preparation, race/ethnic group, and parental education level. In addition, the grade distribution for each subject was investigated. By implementing a filter function, you can see detailed information.</li>
+<li><strong>Goal: </strong>The scores for each subject of 1000 students were analyzed, reading, writing, math, and the results of achievement were shown. For this purpose, three major implementations were made. Create the distribution of scores for each subject through a graph, and determine the median score by gender. The median scores of the students who passed the subject were analyzed by gender, test preparation, race/ethnic group, and parental education level. In addition, the grade distribution for each subject was investigated. By implementing a filter function, you can see detailed information.</li>
 <li><strong>Skills: </strong> Identify the audience for conception, data preparation, and design of an analytical dashboard.</li>
 <li><strong>Technology: </strong> Tableau.
 <li><strong>Result: </strong> By using the dashboard, organize the test results of all students in an easy-to-understand manner. The average score for each subject and the grade for each condition were filtered so that the details could be viewed.</li>
 
 ## Skilled
-
+<li><strong>MS SQL and Data Modding </strong> Data Mining and Cleaning, Built Charts/Graphs 
+<li><strong>Python Programming </strong> Data Collection, Predictive Modelling, Data Visualization - NumPy, Pandas, Matplotlib, Scikit-Learn, Seaborn
+<li><strong>Excel </strong> Data Mining and Cleaning, Built Charts/Graphs 
+<li><strong>Tableu/Power BI </strong> Data Mining and Cleaning, Built Charts/Graphs 
+<li><strong>Web Scraping with Python </strong>  
+<li><strong>Data Quality Improvement and Management </strong> Data Mining and Cleaning, Built Charts/Graphs 
 
 ## Certification - Data Analytics
 #### British Columbia Institute of Technology (Jan 2019 - Jul 2022)
