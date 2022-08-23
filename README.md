@@ -16,7 +16,8 @@ I worked as a UX designer for over 8 years. Consequently, I'm available to perfo
 
 ### Billionaires 2022
 <li><strong>Tableau Dashboard: </strong><a href="https://public.tableau.com/app/profile/jihyun.ki4896/viz/BILLIONAIRES2022/FobesBillionaires2022"><code>FobesBillionaires2022</code></a></li>
-<li><strong>Goal: </strong> The goal is to show the 2022 Billionaires in an easy-to-understand way using the Tableau dashboard. It consists of a dashboard: a summary of 2022 billionaires, the number of people, average age, total amount, gender, self-made, etc. by country on the map, a ranking of the top 10 billionaires and individual information.</li>
+<li><strong>Goal: </strong> The goal is to show the 2022 Billionaires in an easy-to-understand way using the Tableau dashboard. 
+  It consists of a dashboard: a summary of 2022 billionaires, the number of people, average age, total amount, gender, self-made, etc. by country on the map, a ranking of the top 10 billionaires and individual information.</li>
 <li><strong>Skills: </strong> Identify the audience for conception, data preparation, and design of an analytical dashboard.</li>
 <li><strong>Technology: </strong> Tableau.
 <li><strong>Result: </strong> created a visualization dashboard with a summary of countries and featured the top 10 billionaires.</li>
