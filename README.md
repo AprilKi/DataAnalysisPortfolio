@@ -42,7 +42,7 @@ I worked as a UX designer for over 8 years. Consequently, I'm available to perfo
 #### British Columbia Institute of Technology (Jan 2019 - Jul 2022)
 
 - Completed Courses
-1. Relational Database Design and SQL
+1. Relational Database Design and SQL / SQL Development
 2. Business Intelligence with SSAS, SQL Server Analysis Services
 3. Statistics for Data Analysis with R
 4. Advanced Statistical Techniques with R
