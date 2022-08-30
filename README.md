@@ -1,10 +1,8 @@
 # April Ki - Data Analysis Portfolio
 
 ## About Me
-Hello. I'm April Ki and recently completed a Data Analytics program at BCIT(British Columbia Institute of Technology). 
-
-
-I worked as a UI/UX designer for over 8 years. In order to efficiently present information and compose the best user-friendly interface, I analyzed and systematically classified the collected information. Consequently, I'm sufficient creating based on my experiences powerful visualization of Dashboards and analysis of requests for the projects.
+Hello. I'm April Ki and I recently completed a Data Analytics program at BCIT(British Columbia Institute of Technology). For dashboards of data visualization, I have considerable skills with Excel, Power BI and Tableau. Also, having sufficient knowledge of SQL, Python and R, I'm available to handle mining and cleaning of data.
+Use data to perform diagnostic, descriptive, predictive, and prescriptive analysis for best results after carefully analyzing the purpose of the project and scanning the data deeply.
 
 ## Projects
 
