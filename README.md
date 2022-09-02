@@ -29,7 +29,7 @@ Use data to perform diagnostic, descriptive, predictive, and prescriptive analys
 <li><strong>Result: </strong> By using the dashboard, organize the test results of all students in an easy-to-understand manner. The average score for each subject and the grade for each condition were filtered so that the details could be viewed.</li>
 
 ## Skilled
-<li><strong>MS SQL and Data Modeling: </strong> Data Mining and Cleaning, Enhanced entity-relationship modeling using UML, Use SQL - DDL to implement a relational database. 
+<li><strong>MS SQL and Data Modelling: </strong> Data Mining and Cleaning, Enhanced entity-relationship modeling using UML, Use SQL - DDL to implement a relational database. 
 <li><strong>MS SQL Visual Studio: </strong> Designing multidimensional Business Intelligence Semantic Model (BISM), Accessing different data sources, Creating multidimensional databases, Data mining.
 <li><strong>Python: </strong> Data Collection, Predictive Modelling, Data Visualization - NumPy, Pandas, Matplotlib, Scikit-Learn, Seaborn.
 <li><strong>Excel: </strong> Filter and Sort Data, Conditional Formatting, Dashboard Reports with Pivot table. 
