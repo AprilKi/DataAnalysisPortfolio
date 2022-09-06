@@ -1,8 +1,7 @@
 # April Ki - Data Analysis Portfolio
 
 ## About Me
-Hello. I'm April Ki and I recently completed a Data Analytics program at BCIT(British Columbia Institute of Technology). For dashboards of data visualization, I have considerable skills with Excel, Power BI and Tableau. Also, having sufficient knowledge of SQL, Python and R, I'm available to handle mining and cleaning of data.
-Use data to perform diagnostic, descriptive, predictive, and prescriptive analysis for best results after carefully analyzing the purpose of the project and scanning the data deeply.
+Hello. I'm April Ki and I recently completed a Data Analytics program at BCIT(British Columbia Institute of Technology). I have considerable Excel, Power BI and Tableau skills for dashboards data visualization. Also, I'm available to handle mining and cleaning data with sufficient knowledge of SQL, Python and R. Use data to perform diagnostic, descriptive, predictive, and prescriptive analysis for best results after carefully analyzing the project's purpose and scanning the data deeply.
 
 ## Projects
 
