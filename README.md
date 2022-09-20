@@ -6,11 +6,12 @@ Hello. I'm April Ki and I recently completed a Data Analytics program at BCIT(Br
 ## Projects
 
 ### Sales of Book
-<li><strong>MS SQL Code: </strong><a href="https://github.com/AprilKi/Data_Analysis_Portfolio/blob/main/MarketingCampaignsBank.ipynb"><code>MarketingCampaignsBank.ipynb</code></a></li>
-<li><strong>Goal: </strong>The data contains customers of the bank information with age, job, marital, education, balance and whether they subscribed to a term deposit or not. Understanding of input variables predicts how the marketing has impacted the customers who subscribe to the service and the length of contact with customers and previous subscription experience. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, data modelling, and hypothesis testing.</li>
-<li><strong>Skills: </strong> Data cleaning, data analysis, python coding, data visualization, hypothesis testing, descriptive statistics.</li>
-<li><strong>Technology: </strong> Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Sklearn
-<li><strong>Result: </strong> Compared and analyzed multiple data models to derive the best model via identifying significant features.</li>
+<li><strong>MS SQL Code: </strong><a href="https://github.com/AprilKi/DataAnalysisPortfolio/blob/main/SQL_Portfolio.sql">
+<code>SQL_Portfolio.sql</code></a></li>
+<li><strong>Goal: </strong> </li>
+<li><strong>Skills: </strong> Data cleaning, data exploration, complex statistical analysis, create commends with SQL joins/aggregations, create functions</li>
+<li><strong>Technology: </strong> MS SQL Server 2019, SSMS, DDL, DML, DQL, DCL, TCL
+<li><strong>Result: </strong> </li>
 
 ### Maketing Campaigns of the Bank 
 <li><strong>Python Code: </strong><a href="https://github.com/AprilKi/Data_Analysis_Portfolio/blob/main/MarketingCampaignsBank.ipynb"><code>MarketingCampaignsBank.ipynb</code></a></li>
@@ -30,7 +31,7 @@ Hello. I'm April Ki and I recently completed a Data Analytics program at BCIT(Br
 ### Student Performance 
 <li><strong>Tableau Dashboard: </strong><a href="https://public.tableau.com/app/profile/jihyun.ki4896/viz/StudentPerfomance_16594734536610/Student"><code>StudentPerformance</code></a></li>
 <li><strong>Goal: </strong>The scores for each subject of 1000 students were analyzed, reading, writing, math, and the results of achievement were shown. For this purpose, three major implementations were made. Create the distribution of scores for each subject through a graph, and determine the median score by gender. The median scores of the students who passed the subject were analyzed by gender, test preparation, race/ethnic group, and parental education level. In addition, the grade distribution for each subject was investigated. By implementing a filter function, you can see detailed information.</li>
-<li><strong>Skills: </strong> Identify the audience for conception, data preparation, and design of an analytical dashboard.</li>
+<li><strong>Skills: </strong> Identify the audience for conception, data preparation, design of an analytical dashboard.</li>
 <li><strong>Technology: </strong> Tableau.
 <li><strong>Result: </strong> By using the dashboard, organize the test results of all students in an easy-to-understand manner. The average score for each subject and the grade for each condition were filtered so that the details could be viewed.</li>
 
