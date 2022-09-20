@@ -1,0 +1,203 @@
+USE SQLBook;
+
+/* Total number and total amount of products in stock */
+WITH StockCTE AS (
+	SELECT ProductId
+	FROM dbo.Products
+	WHERE IsInStock = 'Y'
+),
+ProductsCTE AS (
+	SELECT OL.ProductId, OL.TotalPrice
+	FROM StockCTE ST
+	JOIN dbo.OrderLines OL
+	ON ST.ProductId = OL.ProductId
+)
+SELECT 
+	ProductsCTE.ProductId, COUNT(*) AS Num, SUM(ProductsCTE.TotalPrice) AS [Total Price]
+FROM StockCTE, ProductsCTE
+GROUP BY ProductsCTE.ProductId
+GO
+
+/* Total sales 2011, 2012 and 2013 by product group*/
+WITH
+a AS (
+	SELECT 
+		PR.ProductId, 
+		PR.GroupName,
+		SUM(OL.TotalPrice) AS [Total Price],
+		YEAR(OL.ShipDate) AS [Year] 
+	FROM dbo.OrderLines OL 
+	INNER JOIN dbo.Products PR
+	ON OL.ProductId = PR.ProductId
+	GROUP BY PR.ProductId, PR.GroupName, YEAR(OL.ShipDate)
+),
+b AS (
+	SELECT
+		a.[ProductId],
+		a.[GroupName],
+		IIF(a.[Year] = 2012, a.[Total Price], NULL) AS [2012],
+		IIF(a.[Year] = 2013, a.[Total Price], NULL) AS [2013],
+		IIF(a.[Year] = 2014, a.[Total Price], NULL) AS [2014]
+	FROM a
+)
+SELECT
+	b.[GroupName],
+	SUM(b.[2012]) AS [2012],
+	SUM(b.[2013]) AS [2013],
+	SUM(b.[2014]) AS [2014]
+FROM b
+GROUP BY b.[GroupName]
+ORDER BY b.[GroupName] DESC
+GO
+
+/* Total monthly fee of Rate plan by subscription*/
+WITH
+a AS (
+	SELECT 
+		SubscriberId, 
+		RatePlan,
+		SUM(MonthlyFee) AS [Total Monthly Fee],
+		YEAR(StartDate) AS [Year] 
+	FROM dbo.Subscribers
+	GROUP BY SubscriberId, RatePlan, YEAR(StartDate)
+),
+b AS (
+	SELECT
+		a.SubscriberId,
+		a.RatePlan,
+		IIF(a.[Year] = 2000, a.[Total Monthly Fee], NULL) AS [2000],
+		IIF(a.[Year] = 2001, a.[Total Monthly Fee], NULL) AS [2001],
+		IIF(a.[Year] = 2002, a.[Total Monthly Fee], NULL) AS [2002]
+	FROM a
+)
+SELECT
+	b.RatePlan,
+	SUM(b.[2000]) AS [2000],
+	SUM(b.[2001]) AS [2001],
+	SUM(b.[2002]) AS [2002]
+FROM b
+GROUP BY b.RatePlan
+ORDER BY b.RatePlan DESC
+GO
+
+
+/* Sales history per product */
+SELECT DISTINCT
+	P.ProductId,
+	P.GroupName AS [Product Name],
+	MIN(OL.TotalPrice) OVER (PARTITION BY P.ProductId) AS [Min Price],  
+	MAX(OL.TotalPrice) OVER (PARTITION BY P.ProductId) AS [Max Price],  
+	AVG(OL.TotalPrice) OVER (PARTITION BY P.ProductId) AS [Average Price],
+	COUNT(OL.OrderId) OVER (PARTITION BY OL.ProductId) AS [Order Number per Product]
+FROM dbo.Products P
+JOIN dbo.Orderlines OL
+ON OL.ProductId = P.ProductId
+JOIN dbo.Orders O
+ON OL.OrderId = O.OrderId
+ORDER BY P.GroupName, P.ProductId;
+GO
+
+/* Cumulative total of yearly sales by Campaign */
+SELECT DISTINCT
+   CampaignId AS [Campaign ID],
+   State AS [State],
+   DATEPART(yy, OrderDate) AS [Year],  
+   TotalPrice AS [Price],
+   CONVERT(varchar(20), AVG(TotalPrice) OVER (PARTITION BY State ORDER BY DATEPART(yy, OrderDate)), 1) AS [Average],  
+   CONVERT(varchar(20), SUM(TotalPrice) OVER (PARTITION BY State ORDER BY DATEPART(yy, OrderDate)), 1) AS [Cumulative Total]    
+FROM dbo.Orders 
+ORDER BY CampaignId, [Year] DESC; 
+GO
+
+/* Probability for Gender of Customers*/
+WITH A AS (
+	SELECT Gender, COUNT(*) AS Num
+	FROM Customers
+	GROUP BY Gender
+	)
+SELECT Gender, FORMAT(Num*1.0/(SELECT SUM(Num) FROM A), 'P2') AS Probability, Num
+FROM A
+GO
+
+/* Probability for Group Name of products as Orders*/
+WITH A AS (
+	SELECT GroupName, COUNT(*) AS Num
+	FROM Products P
+	JOIN OrderLines OL
+	ON P.ProductId = OL.ProductId
+	JOIN Orders O
+	ON OL.OrderId = O.OrderId
+	GROUP BY GroupName
+	)
+SELECT GroupName, FORMAT(Num*1.0/(SELECT SUM(Num) FROM A), 'P2') AS Probability, Num
+FROM A
+GO
+
+/* Binary Classification Model: The zipcodes number of using VISA payment type in prediction model is correct for 677+2072 = 2749 Zipcodes out of 4476 (61%) prediction NOT-VI accutately in 69% */
+DECLARE @YEAR VARCHAR(4) = '2016';
+WITH [lookup] AS (
+    SELECT zg.ZipCode, (CASE WHEN PaymentType = 'VI' THEN 'VI' ELSE 'NOT-VI' END) AS PaymentType
+    FROM (
+        SELECT ZipCode, PaymentType, COUNT(*) as cnt, 
+			ROW_NUMBER() OVER (PARTITION BY ZipCode ORDER BY COUNT(*) DESC, PaymentType) as seqnum
+        FROM (
+			SELECT ZipCode, (CASE WHEN PaymentType = 'VI' THEN 'VI' ELSE 'NOT-VI' END) AS PaymentType, OrderDate
+			FROM Orders
+		) o
+		WHERE OrderDate < @YEAR + '-01-01'
+        GROUP BY ZipCode, PaymentType
+    ) zg 
+    WHERE seqnum = 1
+),
+[actuals] AS (
+    SELECT ZipCode, PaymentType
+    FROM (
+		SELECT ZipCode, PaymentType, COUNT(*) as cnt, 
+			ROW_NUMBER() OVER (PARTITION BY ZipCode ORDER BY COUNT(*) DESC, PaymentType) as seqnum
+        FROM (
+			SELECT ZipCode, (CASE WHEN PaymentType = 'VI' THEN 'VI' ELSE 'NOT-VI' END) AS PaymentType, OrderDate 
+			FROM Orders
+		) o
+		WHERE OrderDate >= @YEAR + '-01-01'
+        GROUP BY ZipCode, PaymentType
+    ) zg 
+    WHERE seqnum = 1
+),
+[result] AS (
+	SELECT
+		l.PaymentType as [Predicted Group Name], 
+		a.PaymentType as [Actual Group Name], 
+		COUNT(*) as [Number of Zips]
+	FROM [lookup] l
+	JOIN [actuals] a 
+	ON l.ZipCode = a.ZipCode
+	GROUP BY l.PaymentType, a.PaymentType
+)
+SELECT * FROM [result]
+GO
+
+/* Customer Signatures: Lookup Table of Household with number of zip codes and median income */
+DROP FUNCTION IF EXISTS A01197180_ZipCode;
+GO
+CREATE FUNCTION A01197180_ZipCode(@CutoffDate DATE)
+RETURNS TABLE 
+AS
+RETURN 
+( 
+SELECT HouseholdId, RowNumber as [Number of Zipcode], [Median Income]
+FROM (
+	SELECT 
+		c.HouseholdId, o.ZipCode, ROW_NUMBER() OVER (PARTITION BY c.HouseholdId ORDER BY o.OrderDate DESC) AS RowNumber,
+		z.MedianEarnings AS [Median Income]
+	FROM Customers c 
+	JOIN Orders o 
+	ON o.CustomerId = c.CustomerId 
+	JOIN ZipCensus z
+	ON z.zcta5 = o.ZipCode
+	WHERE o.ZipCode LIKE '[0-9][0-9][0-9][0-9][0-9]' AND 
+	OrderDate < @CutoffDate
+) h
+)
+GO
+SELECT * FROM A01197180_ZipCode('2014-01-01') ORDER BY [HouseholdId];
+GO
