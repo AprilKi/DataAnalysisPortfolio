@@ -9,7 +9,7 @@ Hello. I'm April Ki and I recently completed a Data Analytics program at BCIT(Br
 <li><strong>MS SQL Code: </strong><a href="https://github.com/AprilKi/DataAnalysisPortfolio/blob/main/SQL_Portfolio.sql">
 <code>SQL_Portfolio.sql</code></a></li>
 <li><strong>Goal: </strong> </li>
-<li><strong>Skills: </strong> Data cleaning, data exploration, complex statistical analysis, create commends with SQL joins/aggregations, create functions</li>
+<li><strong>Skills: </strong> Data cleaning, data exploration, complex statistical analysis, joins, aggregation functionss, create functions</li>
 <li><strong>Technology: </strong> MS SQL Server 2019, SSMS, DDL, DML, DQL, DCL, TCL
 <li><strong>Result: </strong> </li>
 
