@@ -7,7 +7,15 @@ Hello. I'm April Ki and I recently completed a Data Analytics program at BCIT(Br
 
 ### Sales of Book
 <li><strong>MS SQL Code: </strong><a href="https://github.com/AprilKi/DataAnalysisPortfolio/blob/main/SQL_Portfolio.sql">
-<code>SQL_Portfolio.sql</code></a></li>
+<code>DataExploration_SQL</code></a></li>
+<li><strong>Goal: </strong> </li>
+<li><strong>Skills: </strong> Data exploration, complex statistical analysis, joins, aggregation functionss, create functions</li>
+<li><strong>Technology: </strong> MS SQL Server 2019, SSMS, DDL, DML, DQL, DCL, TCL
+<li><strong>Result: </strong> </li>
+
+### Sales of Book
+<li><strong>MS SQL Code: </strong><a href="https://github.com/AprilKi/DataAnalysisPortfolio/blob/main/SQL_Portfolio.sql">
+<code>DataCleaning_SQL</code></a></li>
 <li><strong>Goal: </strong> </li>
 <li><strong>Skills: </strong> Data cleaning, data exploration, complex statistical analysis, joins, aggregation functionss, create functions</li>
 <li><strong>Technology: </strong> MS SQL Server 2019, SSMS, DDL, DML, DQL, DCL, TCL
