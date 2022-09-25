@@ -16,7 +16,7 @@ Hello. I'm April Ki and I recently completed a Data Analytics program at BCIT(Br
 
 
 ### Sales of Book
-<li><strong>MS SQL Code: </strong><a href="https://github.com/AprilKi/DataAnalysisPortfolio/blob/main/SQL_Portfolio.sql">
+<li><strong>MS SQL Code: </strong><a href="https://github.com/AprilKi/DataAnalysisPortfolio/blob/main/DataCleaningSQL.sql">
 <code>DataCleaning_SQL</code></a></li>
 <li><strong>Goal: </strong> </li>
 <li><strong>Skills: </strong> Data cleaning, data exploration, complex statistical analysis, joins, aggregation functionss, create functions</li>
