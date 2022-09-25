@@ -1,4 +1,6 @@
 USE BusinessLicences
+GO
+
 
 /* Cleaning strings of date and time  */
 SELECT 
@@ -7,7 +9,6 @@ SELECT
 	LEFT(ExtractDate,10) AS Cleaned_ExtractDate,
 	RIGHT(ExtractDate, LEN(ExtractDate) - 11) AS Cleaned_ExtractTime
 FROM dbo.BusinessLicences
-GO
 
 
 /* Convert numeric to noney and null value to 0 in feePaid */
