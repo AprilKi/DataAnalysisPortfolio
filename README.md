@@ -6,7 +6,7 @@ Hello. I'm April Ki and I recently completed a Data Analytics program at BCIT(Br
 
 ## Projects
 
-### Sales of Book
+### Data Exploration/Analysis for Sales of Book 
 <li><strong>MS SQL Code: </strong><a href="https://github.com/AprilKi/DataAnalysisPortfolio/blob/main/DataExplorationSQL">
 <code>DataExploration_SQL</code></a></li>
 <li><strong>Goal: </strong> </li>
@@ -15,7 +15,7 @@ Hello. I'm April Ki and I recently completed a Data Analytics program at BCIT(Br
 <li><strong>Result: </strong> </li>
 
 
-### Sales of Book
+### Data Cleaning for Sales of Book
 <li><strong>MS SQL Code: </strong><a href="https://github.com/AprilKi/DataAnalysisPortfolio/blob/main/DataCleaningSQL.sql">
 <code>DataCleaning_SQL</code></a></li>
 <li><strong>Goal: </strong> </li>
