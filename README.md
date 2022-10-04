@@ -37,15 +37,25 @@ Hello. I'm April Ki and I recently completed a Data Analytics program at BCIT(Br
 <li><strong>Goal: </strong> The goal is to show the 2022 Billionaires in an easy-to-understand way using the Tableau dashboard. 
   It consists of a dashboard: a summary of 2022 billionaires, the number of people, average age, total amount, gender, self-made, etc. by country on the map, a ranking of the top 10 billionaires and individual information.</li>
 <li><strong>Skills: </strong> Identify the audience for conception, data preparation, and design of an analytical dashboard.</li>
-<li><strong>Technology: </strong> Tableau.
+<li><strong>Technology: </strong> Tableau</li>
 <li><strong>Result: </strong> created a visualization dashboard with a summary of countries and featured the top 10 billionaires.</li>
+
 
 ### Student Performance 
 <li><strong>Tableau Dashboard: </strong><a href="https://public.tableau.com/app/profile/jihyun.ki4896/viz/StudentPerfomance_16594734536610/Student"><code>StudentPerformance</code></a></li>
 <li><strong>Goal: </strong>The scores for each subject of 1000 students were analyzed, reading, writing, math, and the results of achievement were shown. For this purpose, three major implementations were made. Create the distribution of scores for each subject through a graph, and determine the median score by gender. The median scores of the students who passed the subject were analyzed by gender, test preparation, race/ethnic group, and parental education level. In addition, the grade distribution for each subject was investigated. By implementing a filter function, you can see detailed information.</li>
 <li><strong>Skills: </strong> Identify the audience for conception, data preparation, design of an analytical dashboard.</li>
-<li><strong>Technology: </strong> Tableau.
+<li><strong>Technology: </strong> Tableau</li>
 <li><strong>Result: </strong> By using the dashboard, organize the test results of all students in an easy-to-understand manner. The average score for each subject and the grade for each condition were filtered so that the details could be viewed.</li>
+
+
+### AdventureWorks2016 
+<li><strong>PowerBI Dashboard: </strong><a href="https://github.com/AprilKi/DataAnalysisPortfolio/blob/main/AdventureWorksPowerBI.pdf">
+<code>AdventureWorks2016</code></a></li>
+<li><strong>Goal: </strong> </li>
+<li><strong>Skills: </strong> </li>
+<li><strong>Technology: </strong> PowerBI</li>
+<li><strong>Result: </strong> </li>
 
 
 ## Skilled
