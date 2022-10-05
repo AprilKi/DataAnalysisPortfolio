@@ -3,7 +3,7 @@
 ## About Me
 Hello. I'm April Ki and I recently completed a Data Analytics program at the British Columbia Institute of Technology (BCIT). 
 My sufficient skills are to create dashboards using Excel, Power BI and Tableau for data visualization and also handle mining and cleaning data with professional knowledge of SQL, Python and R. Using data to perform diagnostic, descriptive, predictive, and prescriptive analysis presents the best results after carefully analyzing the project's purpose and scanning the data deeply.
-</br>
+</br></br></br>
 
 ## Projects
 
