@@ -1,7 +1,8 @@
 # April Ki - Data Analysis Portfolio
 
 ## About Me
-Hello. I'm April Ki and I recently completed a Data Analytics program at BCIT(British Columbia Institute of Technology). I have considerable Excel, Power BI and Tableau skills for dashboards data visualization. Also, I'm available to handle mining and cleaning data with sufficient knowledge of SQL, Python and R. Use data to perform diagnostic, descriptive, predictive, and prescriptive analysis for best results after carefully analyzing the project's purpose and scanning the data deeply.
+Hello. I'm April Ki and I recently completed a Data Analytics program at the British Columbia Institute of Technology (BCIT). 
+My sufficient skills are to create dashboards using Excel, Power BI and Tableau for data visualization and also handle mining and cleaning data with professional knowledge of SQL, Python and R. Using data to perform diagnostic, descriptive, predictive, and prescriptive analysis presents the best results after carefully analyzing the project's purpose and scanning the data deeply.
 
 
 ## Projects
@@ -66,19 +67,19 @@ Hello. I'm April Ki and I recently completed a Data Analytics program at BCIT(Br
 #### British Columbia Institute of Technology (Jan 2019 - Dec 2022)
 
 - Completed Courses
-1. Relational Database Design and SQL
-2. SQL Development
+1. Relational Database Design and MS SQL
+2. MS SQL Development
 3. Business Intelligence with SSAS, SQL Server Analysis Services
 4. Statistics for Data Analysis with R
 5. Advanced Statistical Techniques with R
 6. Advanced Microsoft Excel
 7. Python Fundamentals for Data Analysis
 8. Advanced Statistical Techniques for Data Analytics with Python
-9. Data Warehouse Foundations for Business Intelligence
-10. Microsoft Power BI
+9. Data Warehouse with Big Data
+10. MS Power BI
 11. Visual Analytics with Tableau
 12. Data Quality Improvement
-13. Data Analytics Fundamentals with Python
+13. Data Analytics with Python
 14. Business Analysis and Systems Design
 15. Internet and IT Law
 16. IT Security Fundamentals
