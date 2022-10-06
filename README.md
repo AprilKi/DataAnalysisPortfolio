@@ -1,9 +1,9 @@
 # April Ki - Data Analysis Portfolio
 
 ## About Me
-Hello. I'm April Ki and I recently completed a Data Analytics program at the British Columbia Institute of Technology (BCIT). 
-My sufficient skills are to create dashboards using Excel, Power BI and Tableau for data visualization and also handle mining and cleaning data with professional knowledge of SQL, Python and R. Using data to perform diagnostic, descriptive, predictive, and prescriptive analysis presents the best results after carefully analyzing the project's purpose and scanning the data deeply.
-</br></br></br>
+Hello. My name is April Ki and I recently completed a Data Analytics program at the British Columbia Institute of Technology (BCIT). 
+My sufficient skills are to create dashboards using Excel, Power BI and Tableau for data visualization and also handle mining and cleaning data with professional knowledge of MS SQL and Python. Using data to perform diagnostic, descriptive, predictive, and prescriptive analysis presents the best results after carefully analyzing the project's purpose and scanning the data deeply.
+</br></br>
 
 ## Projects
 
@@ -25,24 +25,23 @@ My sufficient skills are to create dashboards using Excel, Power BI and Tableau 
 
 ### Maketing Campaigns of the Bank 
 <li><strong>Python Code: </strong><a href="https://github.com/AprilKi/Data_Analysis_Portfolio/blob/main/MarketingCampaignsBank.ipynb"><code>MarketingCampaignsBank.ipynb</code></a></li>
-<li><strong>Goal: </strong>The data contains customers of the bank information with age, job, marital, education, balance and whether they subscribed to a term deposit or not. Understanding of input variables predicts how the marketing has impacted the customers who subscribe to the service and the length of contact with customers and previous subscription experience. </li>
-<li><strong>Skills: </strong> The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, data modelling, and hypothesis testing. Data cleaning, data analysis, python coding, data visualization, hypothesis testing, descriptive statistics with Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Sklearn</li>
-<li><strong>Result: </strong> Compared and analyzed multiple data models to derive the best model via identifying significant features.</li>
+<li><strong>Goal: </strong>The data contained customers of the bank information with age, job, marital, education, balance, etc. and whether they subscribed to a term deposit or not. The goal of this project is to predict the classification of the client who will subscribe to a term deposit in the future.</li>
+<li><strong>Skills: </strong> Data cleaning, data analysis, python coding, data visualization, hypothesis testing, descriptive statistics using Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Sklearn</li>
+<li><strong>Result: </strong> Understood input variables that how the marketing has impacted the customers who subscribe to the service and the length of contact with customers and previous subscription experience. I completed the following steps: data loading, data cleaning and preprocessing, filling missing values, data modelling, and hypothesis testing. Consequently, compared and analyzed multiple data models to derive the best model via identifying significant features. </li>
 
 
 ### Billionaires 2022
 <li><strong>Tableau Dashboard: </strong><a href="https://public.tableau.com/app/profile/jihyun.ki4896/viz/BILLIONAIRES2022/FobesBillionaires2022"><code>FobesBillionaires2022</code></a></li>
-<li><strong>Goal: </strong> The goal is to show the 2022 Billionaires in an easy-to-understand way using the Tableau dashboard. 
-  It consists of a dashboard: a summary of 2022 billionaires, the number of people, average age, total amount, gender, self-made, etc. by country on the map, a ranking of the top 10 billionaires and individual information.</li>
+<li><strong>Goal: </strong> The goal is to design the 2022 Billionaires in an easy-to-understand way using a Tableau visualization dashboard with a summary of countries and featuring the top 10 billionaires.</li>
 <li><strong>Skills: </strong> Identify the audience for conception, tableau functions, design an analytical dashboard.</li>
-<li><strong>Result: </strong> created a visualization dashboard with a summary of countries and featured the top 10 billionaires.</li>
+<li><strong>Result: </strong> It consists of a dashboard that a summary of 2022 billionaires, the number of people, average age, total amount, gender, self-made, etc. by country on the map, a ranking of the top 10 billionaires and individual information.</li>
 
 
 ### Student Performance of Test
 <li><strong>Tableau Dashboard: </strong><a href="https://public.tableau.com/app/profile/jihyun.ki4896/viz/StudentPerfomance_16594734536610/Student"><code>StudentPerformance</code></a></li>
-<li><strong>Goal: </strong>The scores for each subject of 1000 students were analyzed, reading, writing, math, and the results of achievement were shown. For this purpose, three major implementations were made. Create the distribution of scores for each subject through a graph, and determine the median score by gender. The median scores of the students who passed the subject were analyzed by gender, test preparation, race/ethnic group, and parental education level. In addition, the grade distribution for each subject was investigated. By implementing a filter function, you can see detailed information.</li>
+<li><strong>Goal: </strong>The scores for three subjects, reading, writing, and math, of 1000 students analyzed the results of achievement were shown. By using the dashboard, organize the test results of all students in an easy-to-understand manner. Also, filtering of the average score for each subject and the grade for each condition is provided so that the details could be viewed.</li>
 <li><strong>Skills: </strong> Identify the audience for conception, tableau functions, design an analytical dashboard.</li>
-<li><strong>Result: </strong> By using the dashboard, organize the test results of all students in an easy-to-understand manner. The average score for each subject and the grade for each condition were filtered so that the details could be viewed.</li>
+<li><strong>Result: </strong> The three major implementations were made to create the distribution of scores for each subject through a graph, and determine the median score by gender. The median scores of the students who passed the subject were analyzed by gender, test preparation, race/ethnic group, and parental education level. In addition, the grade distribution for each subject was investigated. By implementing a filter function, you can see detailed information.</li>
 
 
 ### AdventureWorks 2016 
@@ -50,9 +49,9 @@ My sufficient skills are to create dashboards using Excel, Power BI and Tableau 
 <code>AdventureWorks2016</code></a></li>
 <li><strong>Goal: </strong> The 2016 revenue of sales is across six countries (Canada, United States, France, etc) in three categories clothing, bikes and accessories. The goal of the KPI dashboard displays Revenue growth via categories, profit margin or client retention rate.</li>
 <li><strong>Skills: </strong> Power BI, DAX, power query, power map, power pivot, power view</li>
-<li><strong>Result: </strong> </li>
+<li><strong>Result: </strong> Created power query, graphs and pivot tables using Dax such as aggregate, counting, logical or text functions. Analyzed product details and obtained total revenue or month of the month for each country. The Moving Annual Total (MAT) of profits for specific products shows graphs of the total value over the last 12 months. Additionally, the executive summary and customer demographic were printed.</li>
 
-
+</br></br>
 ## Skilled
 <li><strong>MS SQL and Data Modelling: </strong> Data Mining and Cleaning, Enhanced entity-relationship modeling using UML, Use SQL - DDL to implement a relational database. 
 <li><strong>MS SQL Visual Studio: </strong> Designing multidimensional Business Intelligence Semantic Model (BISM), Accessing different data sources, Creating multidimensional databases, Data mining.
