@@ -50,8 +50,9 @@ My sufficient skills are to create dashboards using Excel, Power BI and Tableau 
 <li><strong>Goal: </strong> The 2016 revenue of sales is across six countries (Canada, United States, France, etc) in three categories clothing, bikes and accessories. The goal of the KPI dashboard displays Revenue growth via categories, profit margin or client retention rate.</li>
 <li><strong>Skills: </strong> Power BI, DAX, power query, power map, power pivot, power view</li>
 <li><strong>Result: </strong> Created power query, graphs and pivot tables using Dax such as aggregate, counting, logical or text functions. Analyzed product details and obtained total revenue or month of the month for each country. The Moving Annual Total (MAT) of profits for specific products shows graphs of the total value over the last 12 months. Additionally, the executive summary and customer demographic were printed.</li>
-
 </br></br>
+
+
 ## Skilled
 <li><strong>MS SQL and Data Modelling: </strong> Data Mining and Cleaning, Enhanced entity-relationship modeling using UML, Use SQL - DDL to implement a relational database. 
 <li><strong>MS SQL Visual Studio: </strong> Designing multidimensional Business Intelligence Semantic Model (BISM), Accessing different data sources, Creating multidimensional databases, Data mining.
