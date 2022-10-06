@@ -63,7 +63,7 @@ My sufficient skills are to create dashboards using Excel, Power BI and Tableau 
 <li><strong>Web Scraping with Python: </strong>  Create code and extract the data in the required format - Requests, Slenium, Selector Gadget, Beautiful Soup</li>
 <li><strong>Data Quality Improvement and Management: </strong> Measure the DQ of data sets with data profiling to establish baselines for improvement, Document data flows using simple process diagrams and SIPOCs (Suppliers, Inputs,Process, Outputs, and Customers). </li>
 <li><strong>Data Warehouse with Big Data: </strong>Analyze big data with practical, real-world examples and vast data sets using a case-study approach using querying data with visualizations, and a deep-dive of the Extract, Transform and Load (ETL) process in the data warehouse.</li>
-<li><strong>Statistics for Data Analysis: </strong> Extract meaningful information from a variety of scientific, industrial and commercial data sets using the statistical analysis tool, R for Hypothesis tests, including ANOVA, testing for significant differences between multiple groups.</li>
+<li><strong>Statistical Math: </strong> Extract meaningful information from a variety of scientific, industrial and commercial data sets using the statistical analysis tool, R for Hypothesis tests, including ANOVA, testing for significant differences between multiple groups.</li>
 
 
 
