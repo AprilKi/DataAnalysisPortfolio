@@ -63,8 +63,8 @@ My sufficient skills are to create dashboards using Excel, Power BI and Tableau 
 <li><strong>Web Scraping with Python: </strong>  Create code and extract the data in the required format - Requests, Slenium, Selector Gadget, Beautiful Soup
 <li><strong>Data Quality Improvement and Management: </strong> Measure the DQ of data sets with data profiling to establish baselines for improvement, Document data flows using simple process diagrams and SIPOCs (Suppliers, Inputs,Process, Outputs, and Customers). 
 
-## Certification - Data Analytics
-#### British Columbia Institute of Technology (Jan 2019 - Dec 2022)
+</br>  
+#### Certification of Data Analytics - British Columbia Institute of Technology (Jan 2019 - Dec 2022)
 
 - Completed Courses
 1. Relational Database Design and MS SQL
