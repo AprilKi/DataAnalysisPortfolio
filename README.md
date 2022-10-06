@@ -19,7 +19,7 @@ My sufficient skills are to create dashboards using Excel, Power BI and Tableau 
 <li><strong>MS SQL Code: </strong><a href="https://github.com/AprilKi/DataAnalysisPortfolio/blob/main/DataCleaningSQL.sql">
 <code>DataCleaning_SQL</code></a></li>
 <li><strong>Goal: </strong> Running of business in Vancouver was issued a unique RSN automatically via the system including business name, address, issued dates, etc via year. The purpose of this project is to improve data quality via inspecting and cleaning the data.</li>
-<li><strong>Skills: </strong> Data cleaning, Data quality using MS SQL Server 2019, SSMS, DQL, DML, T-SQL</li>
+<li><strong>Skills: </strong> Data cleaning, Scanning Data quality using MS SQL Server 2019, SSMS, DQL, DML, T-SQL</li>
 <li><strong>Result: </strong> Converted invalid format of postal code, replaced invalid city name and divided sting values of issued-date or extract-date.</li>
 
 
