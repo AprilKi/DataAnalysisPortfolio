@@ -54,16 +54,17 @@ My sufficient skills are to create dashboards using Excel, Power BI and Tableau 
 
 
 ## Skilled
-<li><strong>MS SQL and Data Modelling: </strong> Data Mining and Cleaning, Enhanced entity-relationship modeling using UML, Use SQL - DDL to implement a relational database. 
-<li><strong>MS SQL Visual Studio: </strong> Designing multidimensional Business Intelligence Semantic Model (BISM), Accessing different data sources, Creating multidimensional databases, Data mining.
-<li><strong>Python: </strong> Data Collection, Predictive Modelling, Data Visualization - NumPy, Pandas, Matplotlib, Scikit-Learn, Seaborn.
-<li><strong>Excel: </strong> Filter and Sort Data, Conditional Formatting, Dashboard Reports with Pivot table. 
-<li><strong>Tableau: </strong> Create Insightful and Interactive Visual Dashboards, Explore Tableau’s statistical functions and forecasting capabilities.
-<li><strong>MS Power BI: </strong> Explore different data connections to multiple sources, local, and online, Create filters and slicers for interactive visualizations, Tell the data story to engage stakeholders to bring insights from data visualizations.
-<li><strong>Web Scraping with Python: </strong>  Create code and extract the data in the required format - Requests, Slenium, Selector Gadget, Beautiful Soup
-<li><strong>Data Quality Improvement and Management: </strong> Measure the DQ of data sets with data profiling to establish baselines for improvement, Document data flows using simple process diagrams and SIPOCs (Suppliers, Inputs,Process, Outputs, and Customers). 
+<li><strong>MS SQL and Data Modelling: </strong> Data Mining and Cleaning, Enhanced entity-relationship modeling using UML, Use SQL - DDL to implement a relational database. </li>
+<li><strong>MS SQL Visual Studio: </strong> Designing multidimensional Business Intelligence Semantic Model (BISM), Accessing different data sources, Creating multidimensional databases, Data mining.</li>
+<li><strong>Python: </strong> Data Collection, Predictive Modelling, Data Visualization - NumPy, Pandas, Matplotlib, Scikit-Learn, Seaborn.</li>
+<li><strong>Excel: </strong> Filter and Sort Data, Conditional Formatting, Dashboard Reports with Pivot table.</li> 
+<li><strong>Tableau: </strong> Create Insightful and Interactive Visual Dashboards, Explore Tableau’s statistical functions and forecasting capabilities.</li>
+<li><strong>MS Power BI: </strong> Explore different data connections to multiple sources, local, and online, Create filters and slicers for interactive visualizations, Tell the data story to engage stakeholders to bring insights from data visualizations.</li>
+<li><strong>Web Scraping with Python: </strong>  Create code and extract the data in the required format - Requests, Slenium, Selector Gadget, Beautiful Soup</li>
+<li><strong>Data Quality Improvement and Management: </strong> Measure the DQ of data sets with data profiling to establish baselines for improvement, Document data flows using simple process diagrams and SIPOCs (Suppliers, Inputs,Process, Outputs, and Customers). </li>
 
-</br>  
+</br> 
+ 
 #### Certification of Data Analytics - British Columbia Institute of Technology (Jan 2019 - Dec 2022)
 
 - Completed Courses
