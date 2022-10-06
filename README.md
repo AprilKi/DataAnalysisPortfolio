@@ -26,7 +26,7 @@ My sufficient skills are to create dashboards using Excel, Power BI and Tableau 
 ### Maketing Campaigns of the Bank 
 <li><strong>Python Code: </strong><a href="https://github.com/AprilKi/Data_Analysis_Portfolio/blob/main/MarketingCampaignsBank.ipynb"><code>MarketingCampaignsBank.ipynb</code></a></li>
 <li><strong>Goal: </strong>The data contained customers of the bank information with age, job, marital, education, balance, etc. and whether they subscribed to a term deposit or not. The goal of this project is to predict the classification of the client who will subscribe to a term deposit in the future.</li>
-<li><strong>Skills: </strong> Data cleaning, data analysis, python coding, data visualization, hypothesis testing, descriptive statistics using Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Sklearn</li>
+<li><strong>Skills: </strong> Data cleaning, data analysis, python coding, data visualization, hypothesis testing, descriptive statistics using Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Sklearn</li>
 <li><strong>Result: </strong> Understood input variables that how the marketing has impacted the customers who subscribe to the service and the length of contact with customers and previous subscription experience. I completed the following steps: data loading, data cleaning and preprocessing, filling missing values, data modelling, and hypothesis testing. Consequently, compared and analyzed multiple data models to derive the best model via identifying significant features. </li>
 
 
